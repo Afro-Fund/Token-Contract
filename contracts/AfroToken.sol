@@ -1,5 +1,8 @@
+//Afro.Fund’s Smart Contract Tool is intended to be so intuitive that it follows the Steve Jobs principle: you turn it on and “it just works.”
+
+
 // SPDX-License-Identifier: MIT
-pragma solidity =0.5.16;
+pragma solidity >=0.4.21 <0.7.4;
 
 // ----------------------------------------------------------------------------
 // 
